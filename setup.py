@@ -11,7 +11,7 @@ except IOError:
 
 setup(
     name='redmine-gitlab-migrator',
-    version='1.0.3',
+    version='1.1.0',
     description='Migrate a redmine project to gitlab',
     long_description=README,
     author='Jocelyn Delalande',
